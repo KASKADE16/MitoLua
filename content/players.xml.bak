@@ -1,0 +1,12 @@
+<players root="gfx/characters/costumes/" 
+         portraitroot="gfx/ui/boss/" 
+         nameimageroot="gfx/ui/boss/" 
+         bigportraitroot="gfx/ui/stage/">
+		 
+		 <player id="0" name="Isaac" skin="costume_mito.png" hp="6" bombs="1"
+          nameimage="PlayerName_01_Isaac.png" 
+          portrait="PlayerPortrait_01_Isaac.png" 
+          bigportrait="PlayerPortraitBig_01_Isaac.png" skinColor="-1"
+		  birthright="not done" />
+		  
+</players>
