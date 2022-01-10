@@ -1,2 +1,2 @@
 # MitoLua
-custom character mito in idaac
+custom character mito in isaac
